@@ -1,6 +1,5 @@
 {
-  "name": "vite-plugin-mix-monorepo",
-  "private": true,
+  "name": "vite-plugin-mixer",
   "scripts": {
     "test": "echo skip"
   }
