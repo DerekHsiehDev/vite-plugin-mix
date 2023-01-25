@@ -1,5 +1,4 @@
 {
-  "private": false,
   "name": "example",
   "scripts": {
     "build": "vite build",
