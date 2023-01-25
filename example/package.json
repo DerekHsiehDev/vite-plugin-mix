@@ -1,9 +1,10 @@
 {
-  "private": true,
+  "private": false,
   "name": "example",
   "scripts": {
     "build": "vite build",
     "dev": "vite",
+    "preview": "vite preview",
     "serve-function": "node ./serve-function.mjs"
   },
   "devDependencies": {
